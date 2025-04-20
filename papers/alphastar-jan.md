@@ -53,6 +53,7 @@ The neural network weights of each agent are updated by reinforcement learning f
 ![](assets/Pasted%20image%2020240223184223.png)
 
 ![mana](assets/mana.gif)
+
 The figure shows how one agent (black dot), which was ultimately selected to play against MaNa, evolved its strategy and competitors (coloured dots) during the course of training. Each dot represents a competitor in the AlphaStar league. The position of the dot represents its strategy (inset), and the size of the dot represents how frequently it is selected as an opponent for the MaNa agent during training.
 
 ![](assets/Pasted%20image%2020240223184633.png)

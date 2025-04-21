@@ -1,5 +1,5 @@
 # My thoughts on current agent approaches in completing Pokemon
-- See the various approaches in [pokemon-red-review](../concepts/pokemon-red-review.md) (currently only 2, [claude-plays-pokemon](claude-plays-pokemon.md) and gemini plays pokemon). 
+- See the various approaches in [pokemon-review](pokemon-review.md) (currently only 2, [claude-plays-pokemon](claude-plays-pokemon.md) and gemini plays pokemon). 
 - My views tend to be biased towards framing problems via the lens of [cognitive-architectures](../../agi-potential-notes/concepts/cognitive-architectures.md)
 ## On memory maintenance
 - Mostly summarization based, I think its a mistake.

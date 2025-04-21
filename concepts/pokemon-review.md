@@ -1,4 +1,7 @@
-A review of attempts to solve Pokemon Red (complete the game) with AI. Also see my thoughts [agent-pokemon-thoughts](../papers/agent-pokemon-thoughts.md)
+- A review of attempts to solve Pokemon (complete the game) with AI.
+	- Note: There are many variants of Pokemon games. We are referring to the type that requires exploration, catching Pokemon, battling (especially with Gym leaders to earn badges)
+	- Most of the works use Pokemon Red as the env
+- Also see my thoughts [agent-pokemon-thoughts](agent-pokemon-thoughts.md)
 
 ## Motivation
 - Long horizon, requires complex planning
@@ -25,6 +28,7 @@ A review of attempts to solve Pokemon Red (complete the game) with AI. Also see 
 | [Pokeagent](https://github.com/DaDevChia/Pokeagent_new)                | Agent environment integrated with PyBoy                                                      |
 | [PyBoy](https://github.com/Baekalfen/PyBoy)                            | Python-based gameboy emulator with optimizations for AI use (e.g. RL, parallel environments) |
 | [Pokemon Red Puffer](https://github.com/drubinstein/pokemonred_puffer) | Library for RL dev                                                                           |
+| [Poke.AI](https://github.com/poke-AI/poke.AI)                          | SLAM for mapping env, on Emerald                                                             |
 
 ## Other reference material
 - Disassembly of Pokemon Red/Blue https://github.com/pret/pokered

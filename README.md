@@ -13,5 +13,5 @@ Literature review + quick notes for my own reference so pardon the untidiness. W
 
 ### Pokemon Red
 #### Concepts
-- Overview of Pokemon Red and AI attempts [pokemon-red-review](concepts/pokemon-red-review.md)
-- My thoughts/ideas [agent-pokemon-thoughts](papers/agent-pokemon-thoughts.md)
+- Overview of Pokemon Red and AI attempts [pokemon-review](concepts/pokemon-review.md)
+- My thoughts/ideas [agent-pokemon-thoughts](concepts/agent-pokemon-thoughts.md)

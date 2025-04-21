@@ -66,6 +66,6 @@ Can CRUD to semantic mem in text form via a tool call
 
 ---
 
-Also see my thoughts [agent-pokemon-thoughts](agent-pokemon-thoughts.md)
+Also see my thoughts [agent-pokemon-thoughts](../concepts/agent-pokemon-thoughts.md)
 
 

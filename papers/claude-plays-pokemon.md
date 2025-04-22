@@ -6,7 +6,7 @@ title:
 created-date: 2025-04-20
 tags: 
 paper: https://www.anthropic.com/research/visible-extended-thinking
-code: 
+code: https://github.com/davidhershey/ClaudePlaysPokemonStarter/tree/main
 zks-type: lit
 ---
 - [stream](https://www.twitch.tv/claudeplayspokemon/videos)

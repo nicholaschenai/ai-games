@@ -11,7 +11,7 @@ Literature review + quick notes for my own reference so pardon the untidiness. W
 - [alphastar-jan](papers/alphastar-jan.md) and its followup [alphastar-final](papers/alphastar-final.md)
 - [alphastar-unplugged](papers/alphastar-unplugged.md)
 
-### Pokemon Red
+### Pokemon (Gameboy, e.g. Red)
 #### Concepts
-- Overview of Pokemon Red and AI attempts [pokemon-review](concepts/pokemon-review.md)
+- Overview of Pokemon and AI attempts [pokemon-review](concepts/pokemon-review.md)
 - My thoughts/ideas [agent-pokemon-thoughts](concepts/agent-pokemon-thoughts.md)
